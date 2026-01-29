@@ -1,12 +1,12 @@
-<h1 align="center">Hi there, I'm Basudeb Gorain! 👋</h1>
-<h3 align="center">Software Developer based in West Bengal, India 🇮🇳</h3>
+# Hi there, I'm Basudeb! 👋
+### Software Developer based in West Bengal, India 🇮🇳
 
 <p align="center">
-  <a href="https://github.com/BasudebGorain?tab=repositories">
-    <img src="https://img.shields.io/github/public/BasudebGorain?color=green&label=Repositories&logo=github" alt="Repositories" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail" alt="Email" />
+  <a href="https://github.com/BasudebGorain">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -16,18 +16,16 @@
 I am a passionate developer focusing on building software that solves real-world problems. I just started my journey on GitHub and I am looking to contribute to open source projects.
 
 - 🔭 I’m currently working on: **Building my portfolio**
-- 🌱 I’m currently learning: **[C++] [C#][HTML][JAVA][Java script][Python]**
+- 🌱 I’m currently learning: **Python & Java**
 - 🤝 I’m looking to collaborate on: **Beginner-friendly open source projects**
 
 ### 🛠️ Languages & Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> **Python**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> **Java**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> **Git**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BasudebGorain&show_icons=true&theme=radical&hide_border=true" alt="Basudeb's Stats" />
-</p>.
+![Basudeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasudebGorain&show_icons=true&theme=radical)
 
 - 📫 How to reach me : reach2basudeb@gmail.com
 - My youtube channel: [Aimstech CodeLab](https://www.youtube.com/channel/UCl8s8PTXN_-7a15MQKrmupg)

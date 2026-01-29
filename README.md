@@ -16,7 +16,7 @@
 I am a passionate developer focusing on building software that solves real-world problems. I just started my journey on GitHub and I am looking to contribute to open source projects.
 
 - 🔭 I’m currently working on: **Building my portfolio**
-- 🌱 I’m currently learning: **[Insert Language, e.g., Python / Java / React]**
+- 🌱 I’m currently learning: **[C++] [C#][HTML][JAVA][Java script][Python]**
 - 🤝 I’m looking to collaborate on: **Beginner-friendly open source projects**
 
 ### 🛠️ Languages & Tools

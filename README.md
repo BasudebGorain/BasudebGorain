@@ -25,7 +25,9 @@ I am a passionate developer focusing on building software that solves real-world
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![Basudeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasudebGorain&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=BasudebGorain&theme=radical" alt="Basudeb's Streak" />
+</p>
 
 - 📫 How to reach me : reach2basudeb@gmail.com
 - My youtube channel: [Aimstech CodeLab](https://www.youtube.com/channel/UCl8s8PTXN_-7a15MQKrmupg)
